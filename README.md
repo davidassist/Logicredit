@@ -1,1 +1,1 @@
-# Logicredit
+# Logicredi
