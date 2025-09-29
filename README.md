@@ -1,3 +1,4 @@
+
 # Logicredit Authentication Service
 
 Production-ready authentication module for banking workloads built with **FastAPI**, **SQLAlchemy 2.x**, **Alembic**, **PostgreSQL**, **Redis**, and hardened security defaults. It provides password, TOTP, and WebAuthn/Passkey authentication, strong session management, CSRF protection, and audit logging suitable for PSD2-style step-up flows.
@@ -195,3 +196,6 @@ Out-of-the-box the service relies on FastAPI `BackgroundTasks` for async email s
 - Configure observability (Prometheus, logging, tracing) via FastAPI middlewares as needed.
 
 Happy shipping! Secure-by-default authentication ready for integration with your core banking platform.
+
+# Logicredi
+
